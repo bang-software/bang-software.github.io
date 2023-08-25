@@ -1,4 +1,10 @@
 title: bang-software
+description: Organization page for ICS 414 team 3, bang-software
 remote_theme: pages-themes/minimal@v0.2.0
+google_analytics:
+show_downloads: false
+github:
+  is_project_page: true
+  repository_url: https://github.com/bang-software/HACC-Hui-414f23
 plugins:
 - jekyll-remote-theme
