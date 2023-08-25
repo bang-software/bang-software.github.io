@@ -1,7 +1,9 @@
 ## Table of Contents
 * [Team members](#team-members)
 * [Contract](#contract)
+* [Project Outline](#project-outline)
 * [Project Goals](#project-goals)
+* [Mockups](#mockups)
 
 ## Team Members
 - Evan Araki
@@ -26,3 +28,5 @@ Currently, HACC Hui has not been updated since its inception three years ago and
 There is no concise way of clearing the database in order for the repository to be fresh for a new year of competition. <br/>**Goal:** Allow administrators the ability to easily reset the database of teams and user profiles.
 ### 3. Test Suite Validation
 HACC Hui is currently not passing the test units. <br/>**Goal:** Ensure the updated site passes all test units.
+
+## Mockups
