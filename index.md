@@ -30,3 +30,12 @@ There is no concise way of clearing the database in order for the repository to 
 HACC Hui is currently not passing the test units. <br/>**Goal:** Ensure the updated site passes all test units.
 
 ## Mockups
+
+### Home page
+![](images/hacchui_homepage.JPG)
+
+### Login page
+![](images/hacchui_loginpage.JPG)
+
+### Help page
+![](images/hacchui_helppage.JPG)
