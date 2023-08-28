@@ -12,7 +12,6 @@
 - Jericho Macabante
 - Yong-Sung Masuda
 - Wenhao Qiu
-- Reid Lum
 - Honggun Jeon
 
 ## Contract
