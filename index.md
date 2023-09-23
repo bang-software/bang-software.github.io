@@ -1,3 +1,5 @@
+![ci-badge](https://github.com/bang-software/HACC-Hui-414f23/workflows/ci-hacc-hui/badge.svg)
+
 ## Table of Contents
 * [Team members](#team-members)
 * [Contract](#contract)
